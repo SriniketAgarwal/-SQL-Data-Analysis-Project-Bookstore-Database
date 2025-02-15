@@ -1,0 +1,2 @@
+# -SQL-Data-Analysis-Project-Bookstore-Database
+Executed complex SQL queries on Books, Customers &amp; Orders tables to extract insights &amp; enhance decision-making. Applied Joins, CTEs, Window Functions, Aggregations, Filtering &amp; Grouping.  🔹 Key Insights: ✔ Genre, pricing &amp; stock analysis ✔ Customer &amp; order trends ✔ Revenue &amp; sales insights  💡 Tech Stack: SQL (MySQL/PostgreSQL/SQL Server) 🚀
